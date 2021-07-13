@@ -1,5 +1,5 @@
 # Colors
 #### I'm using these html colors.
 
-- #2E3192
-- #1BFFFF
+- #34E1D3
+- #2B84D3
