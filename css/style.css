@@ -18,7 +18,10 @@ body {
 
 .rights {
  color: white;
- text-align: bottom;
+ width: 200%;
+ height: 200%px;
+ margin: 10px;
+ display: flex;
  font-size: 28px;
  font-family: sans-serif;
 }
