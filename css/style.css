@@ -5,6 +5,7 @@ body {
 .comingsoon {
  color: white;
  text-align: center;
+ font-family: sans-serif;
 }
 
 .se {
@@ -42,7 +43,7 @@ a:after {
  left: 0;
  width: 0;
  height: 100%;
- background: #2B84D3;
+ background: #34E1D3;
  transition: all .35s;
 }
 
