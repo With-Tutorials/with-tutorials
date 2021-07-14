@@ -17,16 +17,6 @@ body {
  font-size: 32px;
 }
 
-.rights {
- color: white;
- width: 200%;
- height: 200%;
- margin: 10px;
- display: flex;
- font-size: 28px;
- font-family: sans-serif;
-}
-
 .se {
  position: fixed;
  top: 50%;
